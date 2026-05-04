@@ -1,7 +1,7 @@
 FROM python:3.11-slim
 
 LABEL maintainer="University of Bremen – Institute for Artificial Intelligence"
-LABEL description="FAI SS2025 – Exercises"
+LABEL description="FAI SS2026 – Exercises"
 
 WORKDIR /home/jovyan/work
 
