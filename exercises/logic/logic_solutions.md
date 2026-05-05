@@ -1,5 +1,5 @@
 # Worksheet SOLUTIONS: Propositional Logic & First-Order Logic
-**Foundations of Artificial Intelligence – SS 2025**
+**Foundations of Artificial Intelligence – SS 2026**
 *University of Bremen, Institute for Artificial Intelligence*
 
 ---
